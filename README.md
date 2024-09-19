@@ -22,6 +22,13 @@ To install all dependencies, you can use `pipenv`:
 pipenv install
 ```
 
+## Running the project
+
+- pipenv install
+- pipenv shell
+- python3 methods.py
+
+
 
 ## Database Configuration (config.py)
 
